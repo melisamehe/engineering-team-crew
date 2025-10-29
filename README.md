@@ -3,6 +3,8 @@
 Welcome to the **EngineeringTeam Crew** project, powered by [crewAI](https://crewai.com)! 🚀  
 This project template helps you set up a multi-agent AI system, enabling agents to collaborate effectively on complex tasks and maximize their collective intelligence.
 
+<img width="952" height="424" alt="trading simulation platform" src="https://github.com/user-attachments/assets/d3da41a7-d514-4c57-ac37-438d646b73b4" />
+<img width="770" height="416" alt="tsp2" src="https://github.com/user-attachments/assets/c386e2a0-1d0b-43c6-b095-88da66f26d89" />
 
 
 ## ⚙️ Installation
