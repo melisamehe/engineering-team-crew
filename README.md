@@ -67,3 +67,4 @@ They collaborate on tasks defined in config/tasks.yaml, leveraging their collect
 The config/agents.yaml file outlines each agent's capabilities and configuration.
 <img width="761" height="492" alt="tsp3" src="https://github.com/user-attachments/assets/9c0882d5-8247-445b-a7ae-0366e145774c" />
 <img width="750" height="369" alt="tsp4" src="https://github.com/user-attachments/assets/00f2d405-7b80-43a2-ae23-2b1416518054" />
+<img width="746" height="312" alt="tsp5" src="https://github.com/user-attachments/assets/511d290b-3bda-4d5d-afce-1e97d98ab7fb" />
