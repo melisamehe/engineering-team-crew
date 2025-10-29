@@ -66,3 +66,4 @@ The engineering_team Crew consists of multiple AI agents with unique roles, goal
 They collaborate on tasks defined in config/tasks.yaml, leveraging their collective skills.
 The config/agents.yaml file outlines each agent's capabilities and configuration.
 <img width="761" height="492" alt="tsp3" src="https://github.com/user-attachments/assets/9c0882d5-8247-445b-a7ae-0366e145774c" />
+<img width="750" height="369" alt="tsp4" src="https://github.com/user-attachments/assets/00f2d405-7b80-43a2-ae23-2b1416518054" />
